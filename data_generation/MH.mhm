@@ -1,0 +1,30 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags MH
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+hair mhair02 f81a4e9a-e3d7-4ecb-bdf0-16d7fd9070a4
+eyelashes eyelashes03 a311babf-a7fb-4d65-a1fc-94ab99fe520f
+eyebrows Eyebrow012 1c16325c-7831-4166-831a-05c5b609c219
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes tshirt02 1bba9db9-1859-424b-bbff-e3abd48f0fc5
+clothes jeans01 faa58a00-05db-4a53-a3a6-72af1cec2053
+clothes classicshoes_hres 6e0c552e-e207-44df-8f70-c9bfdeddd8c6
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.500000
+macro Gender 0.500000
+macro Age 0.500000
+macro Height 0.500000
+macro Asian 0.036000
+macro African 0.036000
+macro Caucasian 0.928000
+macro Muscle 0.734000
+macro BodyProportions 0.500000
+background enabled False
+skinMaterial skins/young_caucasian_male/young_caucasian_male.mhmat
+material mhair02 f81a4e9a-e3d7-4ecb-bdf0-16d7fd9070a4 hair/mhair02/materials/male02_black.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+skeleton basic.json
+subdivide False
